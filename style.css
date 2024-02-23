@@ -14,5 +14,7 @@
 	
 }
 .bannerText {
-	font-family:"Nanum Gothic";
+	font-family:"Nanum Gothic", sans-serif;
+	text-align:center;
+	
 }
