@@ -9,10 +9,10 @@
 
 .banner {
 	background-color:darkgrey;
-	display:inline-block;
+	display:inline;
 	height:200px;
 	
 }
 .bannerText {
-	font-family:serif;
+	font-family:"Nanum Gothic";
 }
